@@ -33,26 +33,31 @@ Pandas / NumPy / Matplotlib / Seaborn / Plotly / sklearn
 ## Used ML Models
 Models were applied and compared for recall and accuracy scores
 
-XGBClassifier
-AdaBoost
-RandomForestClassifier
-Support Vector Machine
-DecisionTreeClassifier
+- XGBClassifier
+- AdaBoost
+- RandomForestClassifier
+- Support Vector Machine
+- DecisionTreeClassifier
  
 ## Conclusions
-reliable prediction of hardliners is not possible with current data
-reliable prediction of illegal drug users on the other hand is possible based on: sensation seeking, ethnicity, openness to new experiences, country, conscientiousness, age
-illegal drug use is a widespread issue throughout society
+- reliable prediction of hardliners is not possible with current data
+- reliable prediction of illegal drug users on the other hand is possible based on: sensation seeking, ethnicity, openness to new experiences, country, conscientiousness, age
+- illegal drug use is a widespread issue throughout society
 
 ## Future Work
-Data related implications:
+**Data related implications:**
 
-collect data on socioeconomic status
-collect data on amount of drug doses
-collect data on clinical diagnoses
-collect data on abuse and addiction
-collect timeline data to identify co-morbidity of diverse substance abuse or/and addiction
+- collect data on socioeconomic status
+- collect data on amount of drug doses
+- collect data on clinical diagnoses
+- collect data on abuse and addiction
+- collect timeline data to identify co-morbidity of diverse substance abuse or/and addiction
 
+**Model related implications:**
+
+- try unsupervised machine learning models
+- apply regression models on continuous data
+- new model for hardliner prediction
 
 ## Files and Folders
 
